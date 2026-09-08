@@ -15,7 +15,7 @@ Canonical skill content lives in `skills/autonomous-build/`. The other entry poi
 - `skills/autonomous-build/examples/` — worked contract-to-ship trace.
 - `LICENSE` — all rights reserved, use through the documented entry points.
 
-This repo is private. Install commands below need an account with access: `gh auth login`, and for HTTPS git operations use the credential helper under that account.
+This repo is public, so the install commands below work for anyone. Contributors pushing changes need an account with access: `gh auth login`.
 
 ## Install
 
