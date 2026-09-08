@@ -22,7 +22,7 @@ This repo is private. Install commands below need an account with access: `gh au
 ### Claude Code (marketplace, recommended)
 
 ```bash
-/plugin marketplace add github:dimitritholen/autonomous-build
+/plugin marketplace add dimitritholen/autonomous-build
 /plugin install autonomous-build
 ```
 
