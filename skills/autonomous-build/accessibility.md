@@ -7,4 +7,4 @@ Every visible slice must be operable without a mouse and perceivable without per
 - Contrast: text meets WCAG AA against its background. Do not rely on color alone to convey state.
 - Motion: honor reduced-motion preferences. No essential information carried by animation only.
 
-Verify with tree inspection plus keyboard-only walkthrough. An accessibility failure blocks the slice like a test failure.
+Verify with tree inspection plus a keyboard-only walkthrough driven through the vision module. An accessibility failure blocks the slice like a test failure.

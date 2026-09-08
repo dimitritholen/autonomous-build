@@ -7,7 +7,7 @@ description: Turn a human idea into working software through executable contract
 
 Use when a human gives an app or feature idea and wants the agent to drive it to working software with minimal further input.
 
-A short idea statement is enough to start. Ask at most one round of clarifying questions, only about goal, users, constraints, and what done means. Then take over.
+A short idea statement is enough to start. Ask at most one round of clarifying questions, only about goal, users, constraints, and what done means, then take over. Allow a second round only when the answers invalidate the frozen contract.
 
 ## Workflow
 

@@ -46,4 +46,4 @@ Copy or point the tool at `skills/autonomous-build/`. If a tool does not follow 
 
 ## Versioning
 
-Bump `version` in `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`, and `gemini-extension.json` on every release. Claude Code only offers updates when the plugin version changes.
+Bump `version` in `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`, and `gemini-extension.json` on every release. Claude Code only offers updates when the plugin version changes. Verify sync with `bash scripts/check-versions.sh`.
