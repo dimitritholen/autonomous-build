@@ -17,6 +17,7 @@ Freeze the contract, verify first, build thin slices, select by execution, repai
 |---|---|
 | Requirements, schemas, invariants, scope | [contract.md](contract.md) |
 | Tests, parallel candidates, repair loop | [verification.md](verification.md) |
+| Design direction, wireframe sign-off | [design-lock.md](design-lock.md) |
 | GUI control (click, type, swipe) | [vision.md](vision.md) |
 | Look, typography, color, anti-slop | [visual-excellence.md](visual-excellence.md) |
 | Latency, load, budgets | [performance.md](performance.md) |

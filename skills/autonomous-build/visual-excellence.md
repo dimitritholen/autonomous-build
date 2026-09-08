@@ -6,4 +6,4 @@ Bar: clear hierarchy with one primary action, consistent 4/8px spacing rhythm, d
 
 Reject AI slop: no purple-blue gradients, no generic glassmorphism, no lorem placeholder text, no emoji decoration, no stock-icon feature grid, no identical card soup.
 
-Loop: observe the screenshot, list up to three specific visual defects, fix the smallest defect first, re-observe. Ship only when a full pass finds no defects.
+Loop: observe the screenshot, list up to three specific visual defects, fix the smallest defect first, re-observe. Ship only when a full pass finds no defects. After three passes that each surface new defects, stop and escalate instead of polishing forever.

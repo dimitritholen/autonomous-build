@@ -11,3 +11,5 @@ Freeze an executable contract containing:
 - Domain invariants: state rules the business requires (e.g. totals must balance, drafts never visible to others).
 
 Anything untestable by machine is out of scope. Record each exclusion in the contract itself so later turns do not re-litigate it.
+
+Existing codebases: map the surrounding architecture before freezing the contract. Name the modules, patterns, and infrastructure the slice must reuse. New scaffolding that duplicates existing capability is a contract violation.

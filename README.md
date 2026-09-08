@@ -11,6 +11,11 @@ Canonical skill content lives in `skills/autonomous-build/`. The other entry poi
 - `.claude-plugin/marketplace.json` — private Claude Code marketplace catalog.
 - `gemini-extension.json` + `GEMINI.md` — Gemini CLI extension (extension root is this repo root).
 - `.agents/skills/autonomous-build` — symlink to the portable skill for Muse.
+- `scripts/check-versions.sh` — version sync check (needs bash plus python3).
+- `skills/autonomous-build/examples/` — worked contract-to-ship trace.
+- `LICENSE` — all rights reserved, use through the documented entry points.
+
+This repo is private. Install commands below need an account with access: `gh auth login`, and for HTTPS git operations use the credential helper under that account.
 
 ## Install
 
